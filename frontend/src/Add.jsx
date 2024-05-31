@@ -21,7 +21,7 @@ class Add extends Component {
 
   handleAddButtonClick = () => {
     axios
-      .post("http://localhost3001/addRecipe", {
+      .post("http://localhost:3001/addRecipe", {
         recipeName: this.state.recipeName,
         ingredientsList: this.state.ingredientsList,
       })

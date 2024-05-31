@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Pavlova",
+    "ingredients": [
+      "tojásfehérje",
+      "cukor",
+      "kukorica keményítő",
+      "só",
+      "habtejszín",
+      "vanília"
+    ]
+  },
+  {
+    "name": "Répatorta",
+    "ingredients": [
+      "sárgarépa",
+      "cukor",
+      "olaj",
+      "tojás",
+      "liszt",
+      "dió",
+      "só",
+      "sütőpor",
+      "fahéj",
+      "vaj",
+      "mascarpone",
+      "vanília",
+      "citrom"
+    ]
+  },
+  {
+    "name": "Svéd mandulatorta",
+    "ingredients": [
+      "tojás",
+      "cukor",
+      "darált mandula",
+      "só",
+      "porcukor",
+      "vaníliás cukor",
+      "habtejszín",
+      "vaj"
+    ]
+  },
+  {
+    "name": "Szalagos fánk",
+    "ingredients": [
+      "tej",
+      "finomliszt",
+      "sötét rum",
+      "só",
+      "olaj",
+      "porcukor",
+      "élesztő",
+      "vaj",
+      "tojás",
+      "baracklekvár"
+    ]
+  },
+  {
+    "name": "Sacher-torta",
+    "ingredients": [
+      "étcsokoládé",
+      "vaj",
+      "tojás",
+      "cukor",
+      "só",
+      "vanília",
+      "finomliszt",
+      "baracklekvár"
+    ]
+  },
+  {
+    "name": "Túrógombóc",
+    "ingredients": [
+      "tojás",
+      "túró",
+      "cukor",
+      "só",
+      "tejföl",
+      "búzadara",
+      "citrom",
+      "zsemlemorzsa"
+    ]
+  },
+  {
+    "name": "Tiramisu",
+    "ingredients": [
+      "tojás",
+      "cukor",
+      "mascarpone",
+      "instant kávé",
+      "babapiskóta",
+      "rum",
+      "kakaópor",
+      "habtejszín"
+    ]
+  },
+  {
+    "name": "Brownie",
+    "ingredients": [
+      "tojás",
+      "cukor",
+      "liszt",
+      "só",
+      "étcsokoládé",
+      "tejcsokoládé",
+      "vaj"
+    ]
+  },
+  {
+    "name": "Császármorzsa",
+    "ingredients": [
+      "tojás",
+      "cukor",
+      "só",
+      "finomliszt",
+      "vaníliás cukor",
+      "tej",
+      "sertészsír"
+    ]
+  },
+  {
+    "name": "Piskótatekercs",
+    "ingredients": [
+      "tojás",
+      "cukor",
+      "finomliszt",
+      "só",
+      "tej",
+      "sütőpor",
+      "lekvár"
+    ]
+  },
+  {
+    "name": "Puncsszelet",
+    "ingredients": [
+      "tojás",
+      "cukor",
+      "liszt",
+      "só",
+      "tej",
+      "sütőpor",
+      "vaj",
+      "kakaópor",
+      "baracklekvár",
+      "barna rum",
+      "vaníliás cukor",
+      "citrom",
+      "meggylé",
+      "ecet",
+      "ételfesték"
+    ]
+  },
+  {
+    "name": "Kókuszgolyó",
+    "ingredients": [
+      "darált háztartási keksz",
+      "porcukor",
+      "tej",
+      "kókuszreszelék",
+      "kakaópor",
+      "vaj",
+      "barna rum",
+      "vaj"
+    ]
+  },
+  {
+    "name": "Narancskenyér",
+    "ingredients": [
+      "tojás",
+      "cukor",
+      "olaj",
+      "vaníliás cukor",
+      "mandarin",
+      "sütőpor",
+      "ricotta",
+      "narancslikőr",
+      "narancs",
+      "só",
+      "liszt"
+    ]
+  },
+  {
+    "name": "Almás pite",
+    "ingredients": [
+      "tojás",
+      "cukor",
+      "liszt",
+      "só",
+      "vaj",
+      "vaníliás cukor",
+      "sütőpor",
+      "alma",
+      "fahéj",
+      "citrom"
+    ]
+  },
+  {
+    "name": "Palacsinta",
+    "ingredients": [
+      "tojás",
+      "cukor",
+      "liszt",
+      "só",
+      "tej",
+      "szódavíz"
+    ]
+  },
+  {
+    "name": "Meggyes piskóta",
+    "ingredients": [
+      "tojás",
+      "cukor",
+      "liszt",
+      "só",
+      "meggy"
+    ]
+  },
+  {
+    "ingredients": [
+      "rétesliszt",
+      "só",
+      "víz",
+      "vaj"
+    ]
+  }
+]

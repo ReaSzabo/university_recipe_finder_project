@@ -15,7 +15,7 @@ class Search extends Component {
 
   handleSearchButtonClick = () => {
     axios
-      .post("http://localhost3001/findRecipe", {
+      .post("http://localhost:3001/findRecipe", {
         ingredients: this.state.ingredients,
       })
       .then((response) => {

@@ -1,4 +1,5 @@
 import { Component } from "react";
+import axios from "axios";
 
 class Search extends Component {
   state = {
@@ -13,9 +14,18 @@ class Search extends Component {
   };
 
   handleSearchButtonClick = () => {
-    this.setState({
-      recipeList: "cghvbjknlmlé",
-    });
+    axios
+      .post("http://localhost3001/findRecipe", {
+        ingredients: this.state.ingredients,
+      })
+      .then((response) => {
+        this.setState({
+          recipeList: response.data,
+        });
+      })
+      .catch((errorMessage) => {
+        console.error(errorMessage);
+      });
   };
 
   render() {
@@ -28,7 +38,7 @@ class Search extends Component {
           készíthetsz belőlük!
         </p>
         <input
-          id="Ingredients_Input"
+          id="Search_Ingredients_Input"
           type="text"
           placeholder="Ide írd az alapanyagaidat! Pl.: habtejszín, vaj, tojás, cukor, fahéj"
           onChange={this.handleIngredientChange}

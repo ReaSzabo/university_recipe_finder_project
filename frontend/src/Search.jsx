@@ -31,7 +31,6 @@ class Search extends Component {
   render() {
     return (
       <div className="SearchContainer">
-        {this.state.ingredients}
         <h1> RECIPE FINDER </h1>
         <p>
           Sorold fel, milyen alapanyagaid vannak és lássuk, milyen desszertet

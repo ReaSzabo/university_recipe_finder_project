@@ -58,7 +58,7 @@ app.post("/findRecipe", (req, res) => {
 });
 
 app.post("/addRecipe", (req, res) => {
-  const newRecipeName = req.body.name;
+  const newRecipeName = req.body.recipeName;
   const newRecipeIngredientsAsString = req.body.ingredientsList;
 
   const newRecipeIngredientsAsArray = convertStringToArray(

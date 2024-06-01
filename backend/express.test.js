@@ -7,23 +7,23 @@ const {
 
 describe("canCookRecipe", () => {
   test("should return true if all recipe ingredients are available", () => {
-    const recipeIngredients = ["flour", "sugar", "eggs"];
-    const availableIngredients = "flour, sugar, eggs, milk";
+    const recipeIngredients = ["liszt", "cukor", "tojás"];
+    const availableIngredients = "liszt, cukor, tojás, tej";
     expect(canCookRecipe(recipeIngredients, availableIngredients)).toEqual(
       true
     );
   });
 
   test("should return false if any recipe ingredient is not available", () => {
-    const recipeIngredients = ["flour", "sugar", "eggs"];
-    const availableIngredients = "flour, sugar, milk";
+    const recipeIngredients = ["liszt", "cukor", "tojás"];
+    const availableIngredients = "liszt, cukor, tej";
     expect(canCookRecipe(recipeIngredients, availableIngredients)).toEqual(
       false
     );
   });
 
   test("should return false if available ingredients list is empty", () => {
-    const recipeIngredients = "flour, sugar, eggs";
+    const recipeIngredients = "liszt, cukor, tojás";
     const availableIngredients = "";
     expect(canCookRecipe(recipeIngredients, availableIngredients)).toEqual(
       false

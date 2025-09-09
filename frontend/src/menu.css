@@ -1,0 +1,55 @@
+body {
+    height: 100vh;
+    background-size: cover;
+    background-image: url("https://images.pexels.com/photos/9599282/pexels-photo-9599282.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    font-family: "SUSE", sans-serif;
+}
+
+.MenuContainer {
+    height: 100%;
+}
+
+.Menu {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    height: 100%;
+    position: relative;
+    top: 100px;
+}
+
+.Tile {
+    width: 250px;
+    height: 50px;
+    border: 2px solid #12C998;
+    border-radius: 5px;
+    letter-spacing: 2px;
+    display: flex;
+    justify-content: center;
+    color: #F3D250;
+    backdrop-filter: blur(60px);
+}
+
+a {
+    text-decoration: none;
+}
+
+.Tile:hover {
+    border-color: #F070A1;
+    background-color: #F070A1;
+    box-shadow: #C34271 0px 7px 29px 0px;
+}
+
+.Header {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+h1 {
+    font-size: 100px;
+    letter-spacing: 10px;
+    color: #F3D250;
+    position: relative;
+    top: 75px;
+}

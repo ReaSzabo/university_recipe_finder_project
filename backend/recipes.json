@@ -1,16 +1,19 @@
 [
   {
+    "id": 1,
     "name": "Pavlova",
     "ingredients": [
-      "tojásfehérje",
+      "tojás",
       "cukor",
       "kukorica keményítő",
       "só",
       "habtejszín",
       "vanília"
-    ]
+    ],
+    "description": "A sütőt melegítsük elő 110 fokra, a pavlovát ugyanis nem sütni, hanem szikkasztani fogjuk, ezért fontos, hogy a sütő meleg legyen, amikor bekerül.Válasszunk szét 4 tojást, a fehérjékre lesz szükségünk. A tojásfehérjét elkezdjük habbá verni, hozzáadunk 1 csipet sót és a ízlés szerint vaníliakivonatot, majd mikor már közepes keménységű a hab, lassan adagolunk  hozzá 22,5 dkg cukrot, jól el kell vegyülnie. Utoljára 1 teáskanál kukoricakeményítő kerüljön a habba. A kemény tojáshabot sütőpapírral bélelt tepsire pakoljuk kör alakban, kb. 8-10 centis magasságú legyen, a közepébe érdemes egy kis mélyedést kialakítani a tölteléknek. A tojáshabot 1 órára betoljuk a 110 fokos sütőbe, a letelt idő után kapcsoljuk le a sütőt, a pavlovát pedig hagyjuk bent, amíg teljesen ki nem hűl. 2,5 dl habtejszínt ízlés szerinti cukorral és egy kis vaníliával habbá verünk. A kihűlt pavlova tetejére kanalazzuk a tejszínhabot, a tetejére pedig tetszés szerinti gyümölcsöket tegyünk."
   },
   {
+    "id": 2,
     "name": "Répatorta",
     "ingredients": [
       "sárgarépa",
@@ -26,22 +29,26 @@
       "mascarpone",
       "vanília",
       "citrom"
-    ]
+    ],
+    "description": "receptreceptreceptreceptreceptreceptreceptreceptreceptreceptrecept"
   },
   {
+    "id": 3,
     "name": "Svéd mandulatorta",
     "ingredients": [
       "tojás",
       "cukor",
-      "darált mandula",
+      "mandula",
       "só",
       "porcukor",
       "vaníliás cukor",
       "habtejszín",
       "vaj"
-    ]
+    ],
+    "description": "receptreceptreceptreceptreceptreceptreceptreceptreceptreceptrecept"
   },
   {
+    "id": 4,
     "name": "Szalagos fánk",
     "ingredients": [
       "tej",
@@ -54,9 +61,11 @@
       "vaj",
       "tojás",
       "baracklekvár"
-    ]
+    ],
+    "description": "receptreceptreceptreceptreceptreceptreceptreceptreceptreceptrecept"
   },
   {
+    "id": 5,
     "name": "Sacher-torta",
     "ingredients": [
       "étcsokoládé",
@@ -67,9 +76,11 @@
       "vanília",
       "finomliszt",
       "baracklekvár"
-    ]
+    ],
+    "description": "receptreceptreceptreceptreceptreceptreceptreceptreceptreceptrecept"
   },
   {
+    "id": 6,
     "name": "Túrógombóc",
     "ingredients": [
       "tojás",
@@ -80,9 +91,11 @@
       "búzadara",
       "citrom",
       "zsemlemorzsa"
-    ]
+    ],
+    "description": "receptreceptreceptreceptreceptreceptreceptreceptreceptreceptrecept"
   },
   {
+    "id": 7,
     "name": "Tiramisu",
     "ingredients": [
       "tojás",
@@ -93,9 +106,11 @@
       "rum",
       "kakaópor",
       "habtejszín"
-    ]
+    ],
+    "description": "receptreceptreceptreceptreceptreceptreceptreceptreceptreceptrecept"
   },
   {
+    "id": 8,
     "name": "Brownie",
     "ingredients": [
       "tojás",
@@ -103,11 +118,12 @@
       "liszt",
       "só",
       "étcsokoládé",
-      "tejcsokoládé",
       "vaj"
-    ]
+    ],
+    "description": "receptreceptreceptreceptreceptreceptreceptreceptreceptreceptrecept"
   },
   {
+    "id": 9,
     "name": "Császármorzsa",
     "ingredients": [
       "tojás",
@@ -116,10 +132,13 @@
       "finomliszt",
       "vaníliás cukor",
       "tej",
-      "sertészsír"
-    ]
+      "vaj",
+      "sütőpor"
+    ],
+    "description": "4 tojást válassz ketté. A fehérjéből egy csipet sóval verj kemény habot, majd aj hozzá 1 csomag vaníliás cukrot is, és így verd még egy rövid ideig. A tojássárgákat keverd el 200 g liszttel, és fokozatosan adagolj bele 300 ml tejet is. Végül forgasd össze a felvert tojáshabbal. Ennél a lépésnél, ha szereted a mazsoltá és éppen akad is otthon, nyugodtan keverj belőle egy marékkal a tésztához. 5 g vajat egy nagy serpenyőben olvassz fel, és öntsd bele a tésztát. Fedővel letakarva közepes lángon süsd öt percig, utána fakanállal vágd négy darabba, és fordítsd meg őket. Ezt az oldalát is öt percig pirítsd, ezután törd kisebb darabokra, szórd meg egy evőkanál porcukorral, és így süsd át. Tálaláskor ízlés szerint még egy kis porcukrot szórhatsz a tetejére és adhatsz hozzá lekvárt is, de voltaképpen bármivel felturbózhatod.  "
   },
   {
+    "id": 10,
     "name": "Piskótatekercs",
     "ingredients": [
       "tojás",
@@ -129,98 +148,51 @@
       "tej",
       "sütőpor",
       "lekvár"
-    ]
+    ],
+    "description": "receptreceptreceptreceptreceptreceptreceptreceptreceptreceptrecept"
   },
   {
-    "name": "Puncsszelet",
-    "ingredients": [
-      "tojás",
-      "cukor",
-      "liszt",
-      "só",
-      "tej",
-      "sütőpor",
-      "vaj",
-      "kakaópor",
-      "baracklekvár",
-      "barna rum",
-      "vaníliás cukor",
-      "citrom",
-      "meggylé",
-      "ecet",
-      "ételfesték"
-    ]
-  },
-  {
-    "name": "Kókuszgolyó",
-    "ingredients": [
-      "darált háztartási keksz",
-      "porcukor",
-      "tej",
-      "kókuszreszelék",
-      "kakaópor",
-      "vaj",
-      "barna rum",
-      "vaj"
-    ]
-  },
-  {
-    "name": "Narancskenyér",
-    "ingredients": [
-      "tojás",
-      "cukor",
-      "olaj",
-      "vaníliás cukor",
-      "mandarin",
-      "sütőpor",
-      "ricotta",
-      "narancslikőr",
-      "narancs",
-      "só",
-      "liszt"
-    ]
-  },
-  {
-    "name": "Almás pite",
-    "ingredients": [
-      "tojás",
-      "cukor",
-      "liszt",
-      "só",
-      "vaj",
-      "vaníliás cukor",
-      "sütőpor",
-      "alma",
-      "fahéj",
-      "citrom"
-    ]
-  },
-  {
-    "name": "Palacsinta",
-    "ingredients": [
-      "tojás",
-      "cukor",
-      "liszt",
-      "só",
-      "tej",
-      "szódavíz"
-    ]
-  },
-  {
-    "name": "Meggyes piskóta",
-    "ingredients": [
-      "tojás",
-      "cukor",
-      "liszt",
-      "só",
-      "meggy"
-    ]
-  },
-  {
+    "id": 11,
     "name": "vajaskenyér",
     "ingredients": [
       "vaj",
       "kenyér"
-    ]
+    ],
+    "description": "receptreceptreceptreceptreceptreceptreceptreceptreceptreceptrecept"
+  },
+  {
+    "id": 12,
+    "name": "mézes kenyér",
+    "ingredients": [
+      "vaj",
+      "méz",
+      "kenyér"
+    ],
+    "description": "receptreceptreceptreceptreceptreceptreceptreceptreceptreceptrecept"
+  },
+  {
+    "id": 13,
+    "name": "palacsinta",
+    "ingredients": [
+      "tojás",
+      "cukor",
+      "só",
+      "finomliszt",
+      "vaníliás cukor",
+      "tej",
+      "olaj",
+      "sütőpor"
+    ],
+    "description": "250 g lisztet, 1 evőkanál cukrot, 2 db tojást, 1 csipet sót, 1 fél teáskanál sütőport és 350 ml tejet részletekben adagolva csomómentesre keverünk. Ha szükségesnek látjuk, szénsavas ásványvízzel/szódával hígitjuk. Enyhén kiolajozott, tapadásmentes, teflon palacsintasütőben szépen eloszlatunk egy adag tésztát. Közepes lángon 1-2 perc alatt megsütjük az egyik, majd újabb 1 perc alatt a másik oldalát, és már tölthető is kedvünk szerint."
+  },
+  {
+    "id": 14,
+    "name": "jó kaja",
+    "ingredients": [
+      "kenyér",
+      "tej",
+      "pehely"
+    ],
+    "description": "pehelyke"
   }
 ]
